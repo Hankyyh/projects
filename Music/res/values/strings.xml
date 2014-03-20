@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Music</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Music Search</string>
+    <string name="search">Search</string>
+    <string name="title">Enter the title</string>
+    <string name="facebook">Post</string>
+    <string name="song">Sample Music</string>
+    <string name="facebook_song">Post</string>
+    <string name="app_id">502256733161224</string>
+    <string name="facebook_album">Post</string>
+    <string name="song_stop">Stop Playing</string>
+    <string name="NoResult">No Result Found</string>
+    <string name="posting">Posting.....</string>
+
+    <string-array name="title_type">
+        <item>artists</item>
+        <item>albums</item>
+        <item>songs</item>
+    </string-array>
+
+    <string name="title_activity_servlet_response">Servlet_response</string>
+    <string name="title_activity_facebook_post">Facebook_post</string>
+
+</resources>
