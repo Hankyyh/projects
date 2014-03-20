@@ -1,0 +1,33 @@
+	table.abc 
+		{
+		border-style:solid;
+		border-width:2px;
+		position:relative;
+		left:500px;
+		width:30%;
+		}
+
+	div{
+		margin-top:10px;
+	}
+	
+	td{
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:10px;
+	padding-left:10px;
+	width:400px;
+	height:150px;
+	}
+	h1{
+	font-size:40;
+	}
+	
+	#result{
+			margin-top:60px;
+			text-align: center;
+			width:70%;
+			position:relative;
+			left:220px;
+	}
+	

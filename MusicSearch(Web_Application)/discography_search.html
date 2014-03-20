@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:fb="https://www.facebook.com/2008/fbml">
+	<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	
+	<div id="fb-root"></div>
+	<script src="http://connect.facebook.net/en_US/all.js"></script>
+	
+	<title>	Discography Search </title>
+	<script src="check.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="mystyle.css" type="" />
+	</head>
+
+<body>
+<div style="text-align:center">
+	<h1> Discography Search </h1>
+	</div>
+	<div>
+	<table class="abc">
+	<tr><td>
+	<form name="search" method = "GET">
+		Search:	&nbsp&nbsp&nbsp&nbsp&nbsp	<input type="text" size=30 name="detail" />
+		<br /><br />
+		Type:	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp	<select name="stype">
+				<option value="artists" selected>Artists</option>
+				<option value="albums" >Albums</option>
+				<option value="songs">Songs</option>
+			 </select>
+		&nbsp&nbsp<input type="submit" id="click" value="Search" name="Search"  onclick="return check(this.form)" />
+	</form>
+	</td><tr>
+	</table>
+</div>
+<div id="result"> </div>
+<noscript/>
+</body>
+</html>
+				
