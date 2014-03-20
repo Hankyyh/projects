@@ -1,0 +1,45 @@
+@CHARSET "US-ASCII";
+
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 12px;
+  font-weight:bold;
+}
+
+path.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+.img-rounded{
+	height:150px;
+}
+.caption{
+	padding-top:0px;
+	text-align:center;
+}
+#page-wrap { width: 1250px; margin: 0px auto; padding: 20px; 
+			background: white; -moz-box-shadow: 0 0 20px black; 
+			-webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
+			
+ html,body {
+ 		/* border-right:15px solid;
+ 		border-left:15px solid;
+ 		border-right-color:brown;
+ 		border-left-color:brown; */
+		background-image:url('img/body-bg.png');
+        height: 100%;
+}
+
+.navbar {
+background-color: #C07171;
+border-color: #0F0F0F;
+
+}
