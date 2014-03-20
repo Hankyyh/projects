@@ -61,7 +61,7 @@ public class Servlet_response extends Activity {
 			e.printStackTrace();
 		}
 	    
-	    String url = "http://cs-server.usc.edu:23825/examples/servlet/HelloWorldExample?input="+title+"&type="+type;
+	    String url = "http://cs-server.usc.edu:*****/examples/servlet/HelloWorldExample?input="+title+"&type="+type;
 	    
 	    HttpClient httpclient = new DefaultHttpClient();
 	    HttpResponse response = null;
