@@ -1,0 +1,54 @@
++-----------------+--------------------------+----------------+----------------+
+|       Date      | Description              |         Amount |        Balance |
++-----------------+--------------------------+----------------+----------------+
+| Sat Jan 19 2008 | Rent                     | (      414.36) | (      414.36) |
+| Tue Apr 22 2008 | Phone bill               | (    3,219.26) | (    3,633.62) |
+| Sat Apr 26 2008 | Bonus                    |      5,837.54  |      2,203.92  |
+| Fri Jul 18 2008 | Gas company              | (    1,416.28) |        787.64  |
+| Mon Sep 29 2008 | Interest                 |      3,939.60  |      4,727.24  |
+| Sun Dec 21 2008 | Bonus                    |      1,042.50  |      5,769.74  |
+| Sat Dec 27 2008 | Cable TV                 | (    1,857.02) |      3,912.72  |
+| Thu Mar  5 2009 | Gasoline                 | (    5,103.00) | (    1,190.28) |
+| Wed Mar 18 2009 | Gas company              | (    5,917.27) | (    7,107.55) |
+| Mon May 11 2009 | Cable TV                 | (    1,680.13) | (    8,787.68) |
+| Sun Jul 26 2009 | Gas company              | (      111.57) | (    8,899.25) |
+| Wed Sep  9 2009 | Paycheck                 |      5,849.12  | (    3,050.13) |
+| Sat Nov  7 2009 | Gas company              | (       41.80) | (    3,091.93) |
+| Mon Dec  7 2009 | Gasoline                 | (    2,057.50) | (    5,149.43) |
+| Tue Dec 29 2009 | Paycheck                 |      5,648.53  |        499.10  |
+| Wed Dec 30 2009 | Gas company              | (    6,282.51) | (    5,783.41) |
+| Thu Jan 14 2010 | Phone bill               | (    3,815.63) | (    9,599.04) |
+| Wed Feb  3 2010 | Grocery                  | (      240.51) | (    9,839.55) |
+| Wed Mar 31 2010 | Interest                 |      2,692.83  | (    7,146.72) |
+| Sat Apr 24 2010 | Grocery                  | (      247.90) | (    7,394.62) |
+| Sat May 22 2010 | Royalty check            |      5,774.50  | (    1,620.12) |
+| Tue Jun  8 2010 | Cable TV                 | (    5,400.81) | (    7,020.93) |
+| Tue Jun 22 2010 | Department of water & po | (    2,889.11) | (    9,910.04) |
+| Fri Jul  9 2010 | Phone bill               | (      259.88) | (   10,169.92) |
+| Wed Jul 28 2010 | Royalty check            |      2,910.37  | (    7,259.55) |
+| Fri Oct  8 2010 | Bonus                    |      2,483.19  | (    4,776.36) |
+| Thu Oct 14 2010 | Bonus                    |         23.21  | (    4,753.15) |
+| Sat Nov 27 2010 | Gas company              | (    1,534.32) | (    6,287.47) |
+| Fri Feb 18 2011 | Royalty check            |      3,092.62  | (    3,194.85) |
+| Sat Mar  5 2011 | Royalty check            |      4,124.33  |        929.48  |
+| Sun Mar 27 2011 | Paycheck                 |      2,494.17  |      3,423.65  |
+| Tue Apr 26 2011 | Royalty check            |      5,224.94  |      8,648.59  |
+| Sat Apr 30 2011 | Grocery                  | (    6,371.32) |      2,277.27  |
+| Tue May 17 2011 | Bonus                    |      1,411.85  |      3,689.12  |
+| Wed Jun 29 2011 | Gasoline                 | (      707.61) |      2,981.51  |
+| Sun Jul  3 2011 | Rent                     | (    2,103.04) |        878.47  |
+| Wed Jul  6 2011 | Bonus                    |      6,361.41  |      7,239.88  |
+| Tue Jul 12 2011 | Grocery                  | (    4,539.89) |      2,699.99  |
+| Sun Aug  7 2011 | Interest                 |      2,439.44  |      5,139.43  |
+| Fri Nov  4 2011 | Gasoline                 | (    3,202.23) |      1,937.20  |
+| Sat Feb  4 2012 | Gas company              | (    4,732.49) | (    2,795.29) |
+| Thu Mar  1 2012 | Royalty check            |      6,142.22  |      3,346.93  |
+| Sun Mar 18 2012 | Grocery                  | (    5,701.10) | (    2,354.17) |
+| Fri May 11 2012 | Department of water & po | (    3,702.54) | (    6,056.71) |
+| Sat Jun  9 2012 | Bonus                    |      5,757.13  | (      299.58) |
+| Thu Aug  9 2012 | Department of water & po | (    6,102.09) | (    6,401.67) |
+| Fri Aug 10 2012 | Paycheck                 |      2,140.17  | (    4,261.50) |
+| Mon Aug 13 2012 | Paycheck                 |      3,908.57  | (      352.93) |
+| Sun Sep  9 2012 | Phone bill               | (    3,166.24) | (    3,519.17) |
+| Mon Sep 17 2012 | Interest                 |      6,525.28  |      3,006.11  |
++-----------------+--------------------------+----------------+----------------+

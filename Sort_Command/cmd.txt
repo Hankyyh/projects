@@ -1,0 +1,7 @@
+rm -f *.o listtest
+make
+rm -f *.o warmup1
+gcc -g -c -Wall my402list.c
+gcc -g -c -Wall warmup1.c
+gcc -o warmup1 -g warmup1.o my402list.o
+./warmup1 sort test.tfile
