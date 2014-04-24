@@ -1,0 +1,15 @@
+Ehcache
+MySQL
+basicDB
+common
+edu.usc.bg
+edu.usc.bg.base
+edu.usc.bg.base.generator
+edu.usc.bg.generator
+edu.usc.bg.measurements
+edu.usc.bg.validator
+edu.usc.bg.workloads
+memcached
+mongoDB
+postgredb
+relational
